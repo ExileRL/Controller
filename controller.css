@@ -1,0 +1,38 @@
+/BEGIN PS4 White Controller Styling/
+.controller.ds4.white {
+    background-image: url(https://imgur.com/8aBrNlz.png);
+}
+
+.ds4.white.disconnected {
+    background: url(https://imgur.com/BXMRBFD.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://imgur.com/VBN6DEg.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://imgur.com/Mi9LkBR.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(https://imgur.com/nM0ZKcb.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://imgur.com/NeTkQhT.png);
+}
+
+.ds4.white .button {
+    background-image: url(https://imgur.com/diXMWoU.png);
+}
+
+.ds4.white .stick {
+    background-image: url(https://imgur.com/QfFcSKP.png);
+}
+
+.ds4.white .face {
+    background-image: url(https://imgur.com/eUZsYb2.png);
+}
+
+/END PS4 White Controller Styling/
